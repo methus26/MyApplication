@@ -35,3 +35,5 @@ public class MainActivity extends AppCompatActivity implements Runnable {
         for(int x=100; x>0; --x) { new Thread(this).start(); }
     }
 }
+
+// studentdorms study
